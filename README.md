@@ -1,7 +1,5 @@
 <h1 align="center">Olá 👋, Eu sou Karol.</h1>
-<h3 align="center">Eu sou estudante e entusiasta em Data Science e IA do Brazil</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=karoline-juliana&label=Profile%20views&color=0e75b6&style=flat" alt="karoline-juliana" /> </p>
+<h3 align="center">Eu sou estudante e entusiasta em Data Science e IA do Brasil.</h3>
 
 - 🔭 I’m currently working on **professional internship.**
 
@@ -33,3 +31,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=karoline-juliana&show_icons=true&locale=en&layout=compact" alt="karoline-juliana" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karoline-juliana&show_icons=true&locale=en" alt="karoline-juliana" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=karoline-juliana&label=Profile%20views&color=0e75b6&style=flat" alt="karoline-juliana" /> </p>
