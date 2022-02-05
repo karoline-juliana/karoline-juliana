@@ -1,5 +1,7 @@
-<h1 align="center">Olá 👋, Eu sou Karol.</h1>
-<h3 align="center">Eu sou estudante e entusiasta em Data Science e IA do Brasil.</h3>
+<h1 align="center">Hello there 👋🏾, I am Karol.</h1>
+<h3 align="center">I am a student and enthusiast in Data Science and AI from Brazil ✨.</h3>
+
+Welcome to my profile! I'm a student, aspiring data scientist, I code sometimes and full-time curious seeker. I am current interning on INCRA and I'm in career transition for data scientist/analyst. Thanks for visiting and I'd love to connect! 👍🏾
 
 - 🔭 I’m currently working on **professional internship.**
 
