@@ -19,6 +19,8 @@ Welcome to my profile! I'm a student, aspiring data scientist, I code sometimes 
 
 - ⚡ Fun fact **I do aerial silks and yoga and I'm passionate for analog photography.**
 
+- 😊 Pronouns: she/her
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/jarolinekuliana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jarolinekuliana" height="30" width="40" /></a>
