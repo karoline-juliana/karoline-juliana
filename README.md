@@ -3,11 +3,11 @@
 
 ![capa_github](https://user-images.githubusercontent.com/75100979/152720817-8905b955-9e6f-400c-8ce9-293527478e90.gif)
 
-Welcome to my profile! I'm a student, aspiring data scientist, I code sometimes and full-time curious seeker. I am current interning on INCRA and I'm in career transition for data scientist/analyst. Thanks for visiting and I'd love to connect! 👍🏾
+Welcome to my profile! I'm a student, aspiring data scientist, I code sometimes and full-time curious seeker. I am current Resident in Robotics and Artificial Intelligence Applied to Software Testing at CIn-UFPE and I'm in career transition for data scientist/analyst. Thanks for visiting and I'd love to connect! 👍🏾
 
-- 🔭 I’m currently working on **professional internship.**
+- 🔭 I’m currently working on **Resident in Robotics and Artificial Intelligence Applied to Software Testing at CIn-UFPE, a Lato Sensu Graduate Program.**
 
-- 🌱 I’m currently learning **SQL, Python, AWS, Azure, Machine learning and deep learning.**
+- 🌱 I’m currently learning **SQL, Python, Java, Kotlin, Flutter, Machine learning and deep learning.**
 
 - 👯 I’m looking to collaborate on **data science and AI projects.**
 
